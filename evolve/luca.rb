@@ -1,0 +1,2 @@
+class Luca
+end
